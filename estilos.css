@@ -5,7 +5,15 @@ body{
 }
 
 header{
-  border-bottom: solid 2px white;
+  border-bottom: solid 2px white (87, 83, 83);
   margin-left: 2px;
   color: red;
+}
+
+.chamada{
+  background-color: white;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
 }
